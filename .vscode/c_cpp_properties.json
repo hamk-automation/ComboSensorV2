@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceRoot}",
+                "C:\\Users\\minhk\\AppData\\Local\\Arduino15\\packages\\esp8266"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "${workspaceRoot}",
+                    "C:\\Users\\minhk\\AppData\\Local\\Arduino15\\packages\\esp8266",
+                    "C:\\Users\\minhk\\Documents\\Arduino\\libraries"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
